@@ -50,8 +50,6 @@
 - [🛠️ Installation Guide](#️-installation-guide)
 - [📱 Usage](#-usage)
 - [🔧 Maintenance](#-maintenance)
-- [🤝 Contributing](#-contributing)
-- [📞 Support](#-support)
 
 </details>
 
