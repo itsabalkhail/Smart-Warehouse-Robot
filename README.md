@@ -46,7 +46,6 @@
 - [⚙️ System Algorithms](#️-system-algorithms)
 - [🎪 Working Envelope](#-working-envelope)
 - [🚀 Practical Application](#-practical-application)
-- [💼 Feasibility Study](#-feasibility-study)
 - [🛠️ Installation Guide](#️-installation-guide)
 - [📱 Usage](#-usage)
 - [🔧 Maintenance](#-maintenance)
@@ -116,21 +115,6 @@ class PerformanceMetrics:
 - **Location Accuracy**: ±2 cm positioning
 - **Error Rate**: Less than 0.1%
 - **System Reliability**: 99.8% uptime
-
-</details>
-
-### 💰 Economic Savings
-<details>
-<summary>Financial Return Analysis</summary>
-
-| Savings Category | Annual Percentage | Value in SAR |
-|------------------|------------------|--------------|
-| Labor Costs | 75% | 750,000 - 1,500,000 |
-| Waste Reduction | 80% | 200,000 - 400,000 |
-| Energy Efficiency | 40% | 100,000 - 200,000 |
-| **Total Savings** | - | **1,050,000 - 2,100,000** |
-
-**Payback Period**: 8-12 months
 
 </details>
 
